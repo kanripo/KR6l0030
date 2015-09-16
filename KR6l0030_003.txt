@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:16.436660
+#+DATE: 2015-08-30 20:51:16.745221
 #+TITLE: 俱舍論實義疏
 #+PROPERTY: CBETA_ID T29n1561
 #+PROPERTY: ID KR6l0030
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1561
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0030_T_000-0325a>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6l0030_T_003-0326b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《阿毘達磨俱舍論實義疏》卷第三¶
+《阿毘達磨俱舍論實義疏》卷第三¶
 ¶
 尊者安惠造¶
 
@@ -69,7 +68,7 @@
 　十有色有對¶
 　此八除色聲
 　無記得三種¶
-　五無分別
+　說五無分別
 　由計度隨念¶
 　以意地散惠
 　意諸念為體

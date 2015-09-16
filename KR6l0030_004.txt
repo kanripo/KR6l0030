@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:16.456019
+#+DATE: 2015-08-30 20:51:16.764253
 #+TITLE: 俱舍論實義疏
 #+PROPERTY: CBETA_ID T29n1561
 #+PROPERTY: ID KR6l0030
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1561
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0030_T_000-0325a>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6l0030_T_004-0326c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《阿毘達磨俱舍論實義疏》卷第四¶
+《阿毘達磨俱舍論實義疏》卷第四¶
 ¶
 尊者安惠造¶
 
